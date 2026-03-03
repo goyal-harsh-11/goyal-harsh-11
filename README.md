@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=goyal-harsh-11&label=Profile%20views&color=0e75b6&style=flat" alt="goyal-harsh-11" /> </p>
 
-- 🌱 I’m currently learning **Artificial Intelligence**
+- 🌱 I’m always learning.
 
 - 📫 How to reach me **yg599172@gmail.com**
 
